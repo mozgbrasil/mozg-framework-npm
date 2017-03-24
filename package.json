@@ -1,0 +1,40 @@
+{
+  "name": "mozg-framework-npm",
+  "version": "1.0.0",
+  "description": "mozg-framework-npm",
+  "keywords": [
+    "natural",
+    "integer",
+    "number",
+    "generator",
+    "generate",
+    "random",
+    "randomly",
+    "randomize",
+    "chance",
+    "test",
+    "dice",
+    "mock"
+  ],
+  "homepage": "https://github.com/mozgbrasil/mozg-framework-npm#readme",
+  "bugs": {
+    "url": "https://github.com/mozgbrasil/mozg-framework-npm/issues",
+    "email": "suporte@mozg.com.br"
+  },
+  "license": "ISC",
+  "author": {
+    "name": "Mozg",
+    "email": "suporte@mozg.com.br",
+    "url" : "http://mozg.com.br/"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mozgbrasil/mozg-framework-npm.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
