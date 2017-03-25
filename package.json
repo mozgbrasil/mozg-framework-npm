@@ -22,11 +22,7 @@
     "email": "suporte@mozg.com.br"
   },
   "license": "ISC",
-  "author": {
-    "name": "Mozg",
-    "email": "suporte@mozg.com.br",
-    "url" : "http://mozg.com.br/"
-  },
+  "author": "Mozg <suporte@mozg.com.br> (http://mozg.com.br/)",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -35,6 +31,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {},
+  "dependencies": {
+    "colors": "*"
+  },
   "devDependencies": {}
 }
